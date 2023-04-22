@@ -5,5 +5,5 @@
 	path = waybar
 	url = https://github.com/Soliprem/waybar
 [submodule "wpgtk"]
-	path = wpgtk
+	path = wpg
 	url = https://github.com/Soliprem/wpgtk
