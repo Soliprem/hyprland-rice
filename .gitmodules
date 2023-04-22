@@ -1,0 +1,9 @@
+[submodule "hypr"]
+	path = hypr
+	url = https://github.com/Soliprem/hyprland
+[submodule "waybar"]
+	path = waybar
+	url = https://github.com/Soliprem/waybar
+[submodule "wpgtk"]
+	path = wpgtk
+	url = https://github.com/Soliprem/wpgtk
